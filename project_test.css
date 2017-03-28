@@ -3,8 +3,10 @@
 body {margin: 0px; padding: 0px;
     color: #000; background: #FFF;
     font-family: Arial, sans-serif;
+    border-top: 2px solid black;
 }
 header {
     height: 3em;
     border-bottom: 1px dotted black;
+    border-top: 1px solid black;
 }
