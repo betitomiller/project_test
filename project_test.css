@@ -10,3 +10,15 @@ header {
     border-bottom: 1px dotted black;
     border-top: 1px solid black;
 }
+header span{
+    font: 120% Georgia,serif;
+    color: black;
+    float: right;
+    margin-right: 2em;
+    margin-top: 0.6em;
+}
+header img {
+    margin-top: 0.5em;
+    margin-left: 2em;
+    
+}
