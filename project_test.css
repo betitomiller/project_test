@@ -24,19 +24,25 @@ header img {
 nav {
   float: left;
     margin-top: 2em;
-    margin-left: 1em;
-    width: 14em;
-    background-color: burlywood;
+    margin-left: 2em;
+    width: 13em;
 }
 nav ul {
     list-style-type: none;
-     padding-left: 0em;
-    margin-left: 1 em;
-    background-color: beige;
+    padding-left: 0em;
+    margin-left: 1em;
 
 }
 nav ul li {
-
+    font-size: 80%;
+    border-bottom: 1px dotted;
+    margin-bottom: 0.3em;
 }
+nav h2 {
+    font: 110% Georgia,serif;
+    border-bottom: 1px dotted;
+    color: #000;
+}
+nav a {text-decoration: none; color: black}
 section {display: none;
 }
