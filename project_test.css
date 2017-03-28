@@ -23,8 +23,16 @@ header img {
 }
 nav {
   float: left;
+    margin-top: 2em;
+    margin-left: 1em;
+    width: 14em;
+    background-color: burlywood;
 }
 nav ul {
+    list-style-type: none;
+     padding-left: 0em;
+    margin-left: 1 em;
+    background-color: beige;
 
 }
 nav ul li {
