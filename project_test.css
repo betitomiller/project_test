@@ -20,5 +20,15 @@ header span{
 header img {
     margin-top: 0.5em;
     margin-left: 2em;
-    
+}
+nav {
+  float: left;
+}
+nav ul {
+
+}
+nav ul li {
+
+}
+section {display: none;
 }
