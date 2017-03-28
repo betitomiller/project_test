@@ -1,12 +1,11 @@
 /* style.css */
 
-body {margin: 0px; padding: 0px;
+body {margin: 0; padding: 0;
     color: #000; background: #FFF;
     font-family: Arial, sans-serif;
 }
 div {width: 90%;
     margin: 0 auto 0 auto;
-    background-color: yellow;
     border-top: 2px solid black;
 }
 header {
@@ -33,7 +32,7 @@ nav {
 }
 nav ul {
     list-style-type: none;
-    padding-left: 0em;
+    padding-left: 0;
     margin-left: 1em;
 
 }
