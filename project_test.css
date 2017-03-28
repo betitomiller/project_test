@@ -4,3 +4,7 @@ body {margin: 0px; padding: 0px;
     color: #000; background: #FFF;
     font-family: Arial, sans-serif;
 }
+header {
+    height: 3em;
+    border-bottom: 1px dotted black;
+}
