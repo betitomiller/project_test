@@ -3,6 +3,10 @@
 body {margin: 0px; padding: 0px;
     color: #000; background: #FFF;
     font-family: Arial, sans-serif;
+}
+div {width: 90%;
+    margin: 0 auto 0 auto;
+    background-color: yellow;
     border-top: 2px solid black;
 }
 header {
@@ -45,4 +49,16 @@ nav h2 {
 }
 nav a {text-decoration: none; color: black}
 section {
+    margin-left: 16em;
+    margin-right: 2em;
+
+}
+section h1 {
+    font: 150% Georgia, serif;
+
+}
+section p {
+    margin-left: 1em;
+    font-size: 80%;
+    line-height: 1.6em;
 }
